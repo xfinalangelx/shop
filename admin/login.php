@@ -39,9 +39,6 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
                             <input type="submit" name="login" value="Login" />
 			</div>
 		</form><!-- form -->
-                <div class="button">
-			<a href="forgotpassword.php">Forgot Password !</a>
-		</div>
 	</section><!-- content -->
 </div><!-- container -->
 </body>
