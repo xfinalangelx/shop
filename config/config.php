@@ -1,7 +1,7 @@
 <?php
-define("DB_HOST", "sql311.epizy.com");
-define("DB_USER", "epiz_28717802");
-define("DB_PASS", "dangomartum2021");
-define("DB_NAME", "epiz_28717802_db_shop");
+define("DB_HOST", "sql6.freemysqlhosting.net");
+define("DB_USER", "sql6414995");
+define("DB_PASS", "apJq2rn3zx");
+define("DB_NAME", "sql6414995");
 
 

@@ -28,7 +28,7 @@ if (!isset($_GET['catId']) || $_GET['catId'] == NULL) {
                                 <div class="card-title" style="font-weight: bold;"><?php echo $result['productName']; ?></div>
                                 <div class="card-text"><?php echo $fm->textShorten($result['body'], 60); ?>
 
-                                    <p>$<?php echo $result['price']; ?></p></div>
+                                    <p>RM<?php echo number_format((float)$result['price'], 2, '.', ''); ?></p></div>
 
                                 <a class="btn btn-primary" href="details.php?proId=<?php echo $result['productId']; ?>">Details</a>
                             </div>
