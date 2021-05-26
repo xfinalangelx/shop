@@ -1,7 +1,7 @@
 <?php
-define("DB_HOST", "localhost");
-define("DB_USER", "root");
-define("DB_PASS", "040699teo");
-define("DB_NAME", "db_shop");
+define("DB_HOST", "sql6.freemysqlhosting.net");
+define("DB_USER", "sql6414995");
+define("DB_PASS", "apJq2rn3zx");
+define("DB_NAME", "sql6414995");
 
 
