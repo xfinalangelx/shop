@@ -1,7 +1,7 @@
 <?php
-define("DB_HOST", "sql6.freemysqlhosting.net");
-define("DB_USER", "sql6414995");
-define("DB_PASS", "apJq2rn3zx");
-define("DB_NAME", "sql6414995");
+define("DB_HOST", "mysql5.us.freehostia.com");
+define("DB_USER", "johlee84");
+define("DB_PASS", "dangomartum2021");
+define("DB_NAME", "johlee84_db_shop");
 
 
